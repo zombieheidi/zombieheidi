@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="telegram-nekochan.gif" width="400"/>
+  <img src="sticker_12.gif" width="400"/>
 </p>
 
 <br>
